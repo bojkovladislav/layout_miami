@@ -1,6 +1,6 @@
 .about {
 
-  &__content {  
+  &__content {
     @include onDesktop {
       display: grid;
       grid-template-columns: repeat(12, 1fr);
